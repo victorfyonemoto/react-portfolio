@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Little Taco Shop",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the responsive web design.",
+    "skills": ["HTML", "CSS", "JavaScript", "SASS"],
+    "demo": "https://mylittletacoshop.netlify.app/",
+    "source": "https://github.com/victorfyonemoto/little-taco-shop"
+  },
+  {
+    "title": "Devlinks",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn responsive web design.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://victorfyonemoto.github.io/devlinks/",
+    "source": "https://github.com/victorfyonemoto/devlinks"
+  },
+  {
+    "title": "Devops",
+    "imageSrc": "projects/project.png",
+    "description": "Repository with some example files to learn about DevOps.",
+    "skills": ["Docker", "Vagrant", "Terraform", "AWS"],
+    "demo": "https://github.com/victorfyonemoto/devops-example",
+    "source": "https://github.com/victorfyonemoto/devops-example"
+  }
+]
